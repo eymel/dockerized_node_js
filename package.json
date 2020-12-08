@@ -1,0 +1,23 @@
+{
+  "name": "dockerized_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eymel/dockerized_node_js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eymel/dockerized_node_js/issues"
+  },
+  "homepage": "https://github.com/eymel/dockerized_node_js#readme",
+
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
